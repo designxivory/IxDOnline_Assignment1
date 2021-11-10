@@ -1,0 +1,24 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "This is the Git and Node basic learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designxivory/IxDOnline_Assignment1.git"
+  },
+  "author": "ivory brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designxivory/IxDOnline_Assignment1/issues"
+  },
+  "homepage": "https://github.com/designxivory/IxDOnline_Assignment1#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
